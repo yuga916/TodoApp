@@ -1,6 +1,0 @@
-version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
-options: "7a1dfaad0d2c8df4fe9b0a3473bcd2c3"
-build_time: [538354171, 961493000]
-inputs:
-  "/Users/yuga/Documents/ios20161219/TodoApp/TodoApp/ViewController.swift": [538353961, 0]
-  "/Users/yuga/Documents/ios20161219/TodoApp/TodoApp/AppDelegate.swift": [538353961, 0]
