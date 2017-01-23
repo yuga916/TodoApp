@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "6aeaa287476315b06ed4c8a76c4da737"
+build_time: [538382040, 254074000]
+inputs:
+  "/Users/yuga/Documents/ios20161219/TodoApp/TodoAppTests/TodoAppTests.swift": [538382027, 0]
